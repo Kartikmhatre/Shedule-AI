@@ -21,7 +21,7 @@
 * ✨ AI-powered content idea generation
 * 🌐 Built with **Next.js, React, and Tailwind CSS**
 
----
+--- 
 
 ## 🚀 Getting Started / Installation
 
