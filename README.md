@@ -1,7 +1,7 @@
 # Schedule AI – Open Source Social Media Scheduling Platform
 
-![Schedule AI Banner](https://placehold.co/1200x600/1e293b/ffffff?text=Schedule+AI)
 
+![Schedule AI Banner](public/banner.png)
 > **Open Source Project by kartikmhatre**
 > This project is free and open-source. Enjoy building and using your own AI-powered social media scheduler!
 
